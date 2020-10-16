@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kris Howell"
+title                    : "KrisP1"
 title_separator          : "-"
 name                     : &name "Kris Howell"
-description              : &description "Front End Web developer"
+description              : &description "Portfolio site"
 url                      : https://krisp1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "krisp1/krisp1.github.io"
