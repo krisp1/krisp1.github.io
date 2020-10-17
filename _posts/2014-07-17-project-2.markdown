@@ -2,10 +2,10 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: cake.png
+img: gatsby_screen_shot.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: April 2020
+client: Myself
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Site built with Gatsby. Incredibly fast page loads and extensive plugin library. Makes use of React components, JSX and MDX. Visit site - https://cocky-pasteur-553b12.netlify.app/
 ---
