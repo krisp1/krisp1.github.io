@@ -2,10 +2,10 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: cabin.png
+img: shitcreek.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: April 2018
+client: Myself
+category: Painting
+description: This is a self portrait I painted several years ago. It is oil and acrylic on canvas and measures 180cm X 200cm. Although it has little to do with web development I have included it here to demonstrate my creative persuits. Web site links to come.
 ---
