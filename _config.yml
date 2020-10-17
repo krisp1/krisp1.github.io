@@ -1,7 +1,7 @@
 # Site settings
 title: Kris Howell
 email: krisp1@protonmail.com
-url: https://github.com/jeromelachaud/freelancer-theme
+url: https://krisp1.github.io
 description: "Web Development Portfolio site."
 keywords: "Web Developer, developer, css, html, HTML, JavaScript, PHP, php, React, react."
 skills: "Web Developer - Graphic Artist - User Experience Designer"
@@ -52,7 +52,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: In a house
+  - line: In live in a mobile home
   - line: Bacchus Marsh, Victoria, Australia
 
 # Credits content
