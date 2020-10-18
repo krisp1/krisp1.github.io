@@ -39,10 +39,6 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
   - title: bitbucket
@@ -52,7 +48,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: In live in a mobile home
+  - line: I live in an off grid mobile home
   - line: Bacchus Marsh, Victoria, Australia
 
 # Credits content
