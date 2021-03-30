@@ -1,12 +1,11 @@
 # Site settings
-title: Kris Howell
+title: big picture of me
 email: krisp1@protonmail.com
 url: https://krisp1.github.io
 description: "Web Development Portfolio site."
 keywords: "Web Developer, developer, css, html, HTML, JavaScript, GatsbyJs, SVG, Inkscape, Gimp, PHP, php, React, react."
 skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: Howell Kris
-
+meta_author: Kris Howell
 # Google webmaster tools
 google_verify:
 
