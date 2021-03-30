@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 2020
 client: Myself
 category: Web Development
-description: Site built with Gatsby. Incredibly fast page loads and extensive plugin library. Makes use of React components, JSX and MDX. Visit site - https://cocky-pasteur-553b12.netlify.app/
+description: Site I am building with GatsbyJs.  Makes use of React components, JSX and MDX. 
 ---

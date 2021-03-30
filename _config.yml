@@ -3,9 +3,9 @@ title: Kris Howell
 email: krisp1@protonmail.com
 url: https://krisp1.github.io
 description: "Web Development Portfolio site."
-keywords: "Web Developer, developer, css, html, HTML, JavaScript, PHP, php, React, react."
+keywords: "Web Developer, developer, css, html, HTML, JavaScript, GatsbyJs, SVG, Inkscape, Gimp, PHP, php, React, react."
 skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: Howell Kristen
+meta_author: Howell Kris
 
 # Google webmaster tools
 google_verify:
@@ -32,8 +32,8 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
+  copyright: Kris Howell
+  location: Australia
   social: Around the Web
   credits: Credits
 
@@ -48,11 +48,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: I live in an off grid mobile home
-  - line: Bacchus Marsh, Victoria, Australia
+  - line: Will relocate
+  - line: Victoria, Australia
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 
 
 # Build settings
 markdown: kramdown
