@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Karmakina!"
 date:   2024-01-18 14:02:27 +1100
 categories: jekyll update
 ---

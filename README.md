@@ -1,1 +1,1 @@
-"# krisp1.github.io" 
+blog / site for study notes, links, tutes etc
