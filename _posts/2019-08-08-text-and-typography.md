@@ -1,19 +1,19 @@
 ---
-title: Text and Typography
-author: cotes
-date: 2019-08-08 11:33:00 +0800
+title: Markdown Basics: Text and Typography
+author: kp
+date: 2021-08-08 11:33:00 +0800
 categories: [Blogging, Demo]
-tags: [typography]
+tags: [typography, Markdown]
 pin: true
 math: true
 mermaid: true
 image:
   path: /commons/devices-mockup.png
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
-  alt: Responsive rendering of Chirpy theme on multiple devices.
+  alt: Markdown syntax basics.
 ---
 
-This post is to show Markdown syntax rendering on [**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/fork), you can also use it as an example of writing. Now, let's start looking at text and typography.
+This post is to illustrate some basics of using Markdown syntax. let's commence with some text and typography syntax.
 
 ## Headings
 
@@ -37,9 +37,9 @@ Quisque egestas convallis ipsum, ut sollicitudin risus tincidunt a. Maecenas int
 
 ### Ordered list
 
-1. Firstly
-2. Secondly
-3. Thirdly
+1. First
+2. Second
+3. Third
 
 ### Unordered list
 
@@ -50,14 +50,14 @@ Quisque egestas convallis ipsum, ut sollicitudin risus tincidunt a. Maecenas int
 ### ToDo list
 
 - [ ] Job
-  + [x] Step 1
+  + [ ] Step 1
   + [x] Step 2
-  + [ ] Step 3
+  + [x] Step 3
 
 ### Description list
 
 Sun
-: the star around which the earth orbits
+: the star which could spit out a solar flare desimating all digital infrastructure on earth within seconds
 
 Moon
 : the natural satellite of the earth, visible by reflected light from the sun

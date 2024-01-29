@@ -1,22 +1,41 @@
 ---
-title: Getting Started
-author: cotes
-date: 2019-08-09 20:55:00 +0800
+title: Linux path environment variable
+author: kp
+date: 2022-11-09 20:54:00 +0800
 categories: [Blogging, Tutorial]
-tags: [getting started]
+tags: [Linux, path, variable, PATH]
 pin: true
 img_path: '/posts/20180809'
 ---
 
-## Prerequisites
 
-Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of the basic environment. [Git](https://git-scm.com/) also needs to be installed.
+## Linux path environment variable
 
-## Installation
+The PATH environment variable is an essential component of any [**Linux**](https://ubuntu.com/download) system. If you ever use the command line at all, the system is relying on the PATH variable to find the location of the commands you are entering.
 
-### Creating a New Site
+In this tutorial, you’ll learn about the PATH environment variable and how it works. You’ll also see how it can be modified by removing paths or adding your own custom directories to the variable.
 
-There are two ways to create a new repository for this theme:
+## __In this tutorial you will learn:__
+
+
+  - What is the PATH variable and how’s it work?
+   
+  - How to temporarily or permanently add a directory to $PATH
+   
+  - How to remove a directory from $PATH
+
+### Category	Requirements, Conventions or Software Version Used
+    
+    System	    Any Linux distro
+    
+    Software	N/A
+    
+    Other	    Privileged access to your Linux system as root or via the sudo command.
+    
+    Conventions	# – requires given linux commands to be executed with root 
+   privileges either directly as a root user or by use of sudo command
+   $ – requires given linux commands to be executed as a regular non-privileged user
+   There are two ways to create a new repository for this theme:
 
 - [**Using the Chirpy Starter**](#option-1-using-the-chirpy-starter) - Easy to upgrade, isolates irrelevant project files so you can focus on writing.
 - [**GitHub Fork**](#option-2-github-fork) - Convenient for custom development, but difficult to upgrade. Unless you are familiar with Jekyll and are determined to tweak or contribute to this project, this approach is not recommended.
