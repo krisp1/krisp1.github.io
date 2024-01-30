@@ -10,11 +10,12 @@ tags: [mermaid]
 The [favicons](https://www.favicon-generator.org/about/) of [**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/) are placed in the directory `assets/img/favicons/`{: .filepath}. You may want to replace them with your own. The following sections will guide you to create and replace the default favicons.
 
 ## Generate some mermaid
-
+```mermaid
 sequenceDiagram
 	Site->>mermaid: initialize
 	Site->>mermaid: content loaded
 	mermaid->>mermaidAPI: init
+```    
 
 Prepare a square image (PNG, JPG, or SVG) with a size of 512x512 or more, and then go to the online tool [**Real Favicon Generator**](https://realfavicongenerator.net/) and click the button <kbd>Select your Favicon image</kbd> to upload your image file.
 
