@@ -7,7 +7,7 @@ categories: [Blogging, Tutorial]
 tags: [mermaid]
 ---
 
-The [favicons](https://www.favicon-generator.org/about/) of [**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/) are placed in the directory `assets/img/favicons/`{: .filepath}. You may want to replace them with your own. The following sections will guide you to create and replace the default favicons.
+Learning Mermaid 
 
 ## Generate some mermaid
 ```mermaid
@@ -17,11 +17,29 @@ sequenceDiagram
 	mermaid->>mermaidAPI: init
 ```    
 
-Prepare a square image (PNG, JPG, or SVG) with a size of 512x512 or more, and then go to the online tool [**Real Favicon Generator**](https://realfavicongenerator.net/) and click the button <kbd>Select your Favicon image</kbd> to upload your image file.
+## Flow chart
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
 
-In the next step, the webpage will show all usage scenarios. You can keep the default options, scroll to the bottom of the page, and click the button <kbd>Generate your Favicons and HTML code</kbd> to generate the favicon.
+## Sequence diagram - SQL injection
+```mermaid
+sequenceDiagram
+    injection SQL Injection
+    
+    
 
-## Download & Replace
+
+## Python markdown
+
+```python
+s = "Python syntax highlighting"
+print s
+```
 
 Download the generated package, unzip and delete the following two from the extracted files:
 
