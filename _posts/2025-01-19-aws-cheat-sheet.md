@@ -14,27 +14,41 @@ author: kp
 
 ##### 1. **List IAM Users**
 
+
      aws iam list-users
 
 
 ##### 2. **Get User Permissions**
 
    a. List attached managed policies
+
+
      aws iam list-attached-user-policies --user-name [user-name]
+
      
    b. List inline policies
+
+
      aws iam list-user-policies --user-name [user-name]
+
      
    c. Get inline policy details
+
+
      aws iam get-user-policy --user-name [user-name] --policy-name [policy-name]
 
 
 ##### 3. **List IAM Groups and Permissions**
 
+
    a. List groups for a user
+
+
      aws iam list-groups-for-user --user-name [user-name]
      
+     
    b. List group policies
+
      aws iam list-attached-group-policies --group-name [group-name]
      aws iam list-group-policies --group-name [group-name]
      
