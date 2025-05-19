@@ -2,8 +2,7 @@
 layout: post
 title: IAM Enumeration Cheat Sheet
 subtitle: 
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+#thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [aws, cloudgoat]
 author: kp
@@ -45,7 +44,7 @@ author: kp
 
 
      aws iam list-groups-for-user --user-name [user-name]
-     
+
      
    b. List group policies
 
