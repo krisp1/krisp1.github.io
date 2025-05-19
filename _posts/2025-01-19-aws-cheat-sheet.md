@@ -8,8 +8,6 @@ tags: [aws, cloudgoat]
 author: kp
 ---
 
-### IAM Enumeration Cheat Sheet
-
 
 ##### 1. **List IAM Users**
 
@@ -17,7 +15,9 @@ author: kp
      aws iam list-users
 
 
+
 ##### 2. **Get User Permissions**
+
 
    a. List attached managed policies
 
@@ -37,6 +37,7 @@ author: kp
      aws iam get-user-policy --user-name [user-name] --policy-name [policy-name]
 
 
+
 ##### 3. **List IAM Groups and Permissions**
 
 
@@ -48,16 +49,25 @@ author: kp
      
    b. List group policies
 
+
      aws iam list-attached-group-policies --group-name [group-name]
+
+
      aws iam list-group-policies --group-name [group-name]
+
      
    c. Get inline group policy details
+
+
      aws iam get-group-policy --group-name [group-name] --policy-name [policy-name]
+
 
      
 ##### 4. **List IAM Roles and Permissions**
 
+
    a. List all roles
+
      aws iam list-roles
      
    b. Get role details (trust policy)
