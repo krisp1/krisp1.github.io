@@ -11,11 +11,10 @@ author: kp
 ##### 1. List IAM Users
 
 
-     aws iam list-users
+     aws iam list-users 
 
-
-
-##### 2. **Get User Permissions**
+&nbsp;
+##### 2. Get User Permissions
 
 
    a. List attached managed policies
@@ -36,8 +35,8 @@ author: kp
      aws iam get-user-policy --user-name [user-name] --policy-name [policy-name]
 
 
-
-##### 3. **List IAM Groups and Permissions**
+&nbsp;
+##### 3. List IAM Groups and Permissions
 
 
    a. List groups for a user
@@ -60,8 +59,8 @@ author: kp
      aws iam get-group-policy --group-name [group-name] --policy-name [policy-name]
 
 
-     
-##### 4. **List IAM Roles and Permissions**
+&nbsp;    
+##### 4. List IAM Roles and Permissions
 
 
    a. List all roles
@@ -93,7 +92,7 @@ author: kp
 
      aws iam get-role-policy --role-name [role-name] --policy-name [policy-name]
 
-
+&nbsp;
 ##### 5. Get and Decode Policy Documents
 
 
@@ -104,7 +103,7 @@ author: kp
 
      aws iam get-policy-version --policy-arn [policy-arn] --version-id [version-id]
 
-
+&nbsp;
 ##### 6. View Full IAM Snapshot
 
 
@@ -115,5 +114,4 @@ author: kp
 
 
 
-> Use this to build a full IAM permissions map. Add `--filter` to target roles/users/groups specifically.
-
+ Use this to build a full IAM permissions map. Add `--filter` to target roles/users/groups specifically.
