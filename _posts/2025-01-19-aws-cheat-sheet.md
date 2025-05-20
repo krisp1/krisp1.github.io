@@ -9,7 +9,7 @@ author: kp
 ---
 
 
-##### 1. **List IAM Users**
+##### 1. List IAM Users
 
 
      aws iam list-users
