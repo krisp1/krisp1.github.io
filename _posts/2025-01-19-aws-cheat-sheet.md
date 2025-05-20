@@ -51,7 +51,6 @@ author: kp
 
      aws iam list-attached-group-policies --group-name [group-name]
 
-
      aws iam list-group-policies --group-name [group-name]
 
      
@@ -103,7 +102,6 @@ author: kp
 
      aws iam get-policy --policy-arn [policy-arn]
 
-
      aws iam get-policy-version --policy-arn [policy-arn] --version-id [version-id]
 
 
@@ -114,6 +112,7 @@ author: kp
 
 
      aws iam get-account-authorization-details
+
 
 
 > Use this to build a full IAM permissions map. Add `--filter` to target roles/users/groups specifically.
