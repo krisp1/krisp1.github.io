@@ -8,7 +8,6 @@ tags: [aws, cloudgoat]
 author: kp
 ---
 
-
 ##### 1. List IAM Users
 
 
@@ -68,30 +67,54 @@ author: kp
 
    a. List all roles
 
+
      aws iam list-roles
+
      
    b. Get role details (trust policy)
+
+
      aws iam get-role --role-name [role-name]
+
      
    c. List attached policies
+
+
      aws iam list-attached-role-policies --role-name [role-name]
+
      
    d. List inline policies
+
+
      aws iam list-role-policies --role-name [role-name]
+
      
    e. Get inline role policy details
+
+
      aws iam get-role-policy --role-name [role-name] --policy-name [policy-name]
+
 
 ##### 5. Get and Decode Policy Documents
 
+
    a. Get a managed policy document (by ARN or name)
+
+
      aws iam get-policy --policy-arn [policy-arn]
+
+
      aws iam get-policy-version --policy-arn [policy-arn] --version-id [version-id]
+
 
 ##### 6. View Full IAM Snapshot
 
+
    a. Dump all IAM permissions (users, roles, groups, policies)
+
+
      aws iam get-account-authorization-details
+
 
 > Use this to build a full IAM permissions map. Add `--filter` to target roles/users/groups specifically.
 
