@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IAM Enumeration Cheat Sheet
+title: AWS CLI IAM Enumeration Cheat Sheet
 subtitle: 
 #thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
