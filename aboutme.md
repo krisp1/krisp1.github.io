@@ -4,7 +4,7 @@ title: About me
 subtitle: 
 ---
 
-My name is Kp. I have the following qualities:
+My name is Kp. I am an ethical hacker
 
 ### My story
 
