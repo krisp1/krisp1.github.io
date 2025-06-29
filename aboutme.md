@@ -4,8 +4,8 @@ title: About me
 subtitle: 
 ---
 
-My name is Kp. I am an ethical hacker
+My name is Kp. I am an IT Security Analyst
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now.
+
