@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to fix Fastboot Mode Device State Locked
+title: Fix Fastboot Mode Device State Locked
 subtitle: A guide on how to Fix Fastboot Mode Device State Locked (Unlockable)
 #thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
@@ -8,7 +8,6 @@ tags: [Fastboot, android, graphineOS, device state locked]
 author: kp
 ---
 
-![Pacu cli](https://krisp1.github.io/assets/img/hacking-aws-with-pacu.png){: .mx-auto.d-block :}
 
 
 In this guide, we will show you the steps to fix the Fastboot Mode Device State Locked (Unlockable). There’s a generic rule of thumb that you need to unlock the bootloader before flashing any custom ROM. While that still holds true, however, nowadays, a bunch of custom ROMs allow you to relock the bootloader as well. Some of the well-known players in this domain include the likes of [GrapheneOS](https://grapheneos.org/), HellucaOS, and [CalyxOS](https://calyxos.org/).

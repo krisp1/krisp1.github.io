@@ -8,7 +8,6 @@ tags: [GraphineOS, android, AOSP, secure, mobile, google, pixel]
 author: kp
 ---
 
-### Install guide for GraphineOS
 
 As an alternative Android operating system, GrapheneOS doesn’t officially come pre-installed on any device.
 
@@ -42,7 +41,7 @@ Installing GrapheneOS isn’t as simple as downloading and executing a specific 
 **Prerequisites**
 
 Download the GrapheneOS factory images ZIP and its signature for your model device from here: 
-https://grapheneos.org/releases
+[GraphineOS](https://grapheneos.org/releases)
 
 
 **Developer Options enabled**
@@ -66,7 +65,7 @@ Ideally, you’ll use the cable that came with your Pixel or another high-qualit
 
 If you’re installing GrapheneOS on a Pixel 4a (5G) or later, you don’t need specific drivers  ( although you might ) because Windows 10/11 includes a generic fastboot driver. For older versions, you might need a dedicated driver.
 
-#### Latest OS and firmware versions
+**Latest OS and firmware versions**
 
 While this isn’t a necessity, it’s best to update the phone’s stock OS and firmware for best results.
 
@@ -109,19 +108,19 @@ While CLI GrapheneOS installation is more technical, the general steps are large
 Specifically, you’ll first need the fastboot tool. 
 
 
-#### Download ADB and Fastboot with Installation on Windows 7, 8, 10, 11
+**Download ADB and Fastboot with Installation on Windows 7, 8, 10, 11**
 
 ADB Fastboot is a method to execute commands via PC for tasks like flashing firmware and unlocking bootloaders.
 
 This section will guide you on downloading and installing ADB and Fastboot on Windows 7, 8, 8.1, Windows 10, and Windows 11.
 
-#### What is ADB?
+**What is ADB?**
 
 Android Debug Bridge (ADB) is a client-server program that allows users to easily connect an Android device and a Windows computer using the USB driver. As mentioned above, ADB is an important part of the Android Software Development Kit (Android SDK).
 
 You can run an ADB command on your Android device via the Platform Tools using a computer to transfer files, install or uninstall apps, flash firmware, unlock the device bootloader, and more. It basically makes it easy for you to complete the required development work or even test some aspects on the Android handset.
 
-#### What is Fastboot?
+**What is Fastboot?**
 
 Fastboot is a protocol that usually upgrades the flashable file system on Android devices. This tool works as an alternative method to the recovery mode for implementing updates and installations. Whenever your device boots in the Fastboot mode, you can easily modify or tweak system image files from the PC via a USB connection.
 
