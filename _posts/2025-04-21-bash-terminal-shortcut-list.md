@@ -9,15 +9,15 @@ author: kp
 ---
 
 
-    Left        Move back one character
-    Right       Move forward one character
-Ctrl+b &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Move back one character
-Ctrl+f &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Move forward one character
+    Left          Move back one character
+    Right         Move forward one character
+    Ctrl+b        Move back one character
+    Ctrl+f        Move forward one character
 
-Alt+Left        Move back one word
-Alt+Right       Move forward one word
-Alt+b           Move back one word
-Alt+f           Move forward one word
+    Alt+Left      Move back one word
+    Alt+Right     Move forward one word
+    Alt+b         Move back one word
+    Alt+f         Move forward one word
 
 Cmd+Left        Move cursor to start of line
 Cmd+Right       Move cursor to end of line
