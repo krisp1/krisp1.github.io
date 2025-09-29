@@ -8,13 +8,11 @@ tags: [terminal, linux, commands, shortcuts, key, combinations]
 author: kp
 ---
 
-### TERMINAL Shortcuts list
 
-
-Left            Move back one character
-Right           Move forward one character
-Ctrl+b          Move back one character
-Ctrl+f          Move forward one character
+Left &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Move back one character
+Right &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Move forward one character
+Ctrl+b &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Move back one character
+Ctrl+f &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Move forward one character
 
 Alt+Left        Move back one word
 Alt+Right       Move forward one word
