@@ -9,8 +9,8 @@ author: kp
 ---
 
 
-Left &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Move back one character
-Right &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Move forward one character
+    Left        Move back one character
+    Right       Move forward one character
 Ctrl+b &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Move back one character
 Ctrl+f &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Move forward one character
 
