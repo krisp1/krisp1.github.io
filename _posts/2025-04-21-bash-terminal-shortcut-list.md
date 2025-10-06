@@ -8,6 +8,8 @@ tags: [terminal, linux, commands, shortcuts, key, combinations]
 author: kp
 ---
 
+Some useful Linux Terminal Keyboard Shortcuts
+
 
     Left          Move back one character
     Right         Move forward one character
